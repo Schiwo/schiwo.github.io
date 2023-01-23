@@ -43,6 +43,20 @@
       year: 2019-2020
       description: Project STAV Psych. Developement and Implementation of (self) assessments to select psychology students in Baden-Wuerttemberg, Germany.
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Wissenschaftliche Konzepte und Methoden (Uni Freiburg)
+      year: WS22/23
+    - title: Ringvorlesung (Uni Tübingen)
+      year: WS22/23
+    - title: Experimentalpraktikum 1 (Uni Tübingen)
+      year: SS22
+    - title: Ringvorlesung (Uni Tübingen)
+      year: WS21/22
+    - title: Empirisch-experimentelles Praktikum (Uni Freiburg)
+      year: WS19/20
+
 
 - title: Other Interests
   type: list
