@@ -1,3 +1,7 @@
+"Benini":
+  - firstname: ["Elena", "E."]
+    url: https://www.psych.rwth-aachen.de/cms/PSY/Das-Institut/Kognitions-und-Experimentalpsychologie/Team/~eldlw/Elena-Benini/?allou=1
+
 "Dignath":
   - firstname: ["David", "D."]
     url: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/psychologie/arbeitsbereiche/allgemeine-psychologie/team/david-dignath/
@@ -17,6 +21,18 @@
 "Kiesel":
   - firstname: ["Andrea", "A."]
     url: https://www.psychologie.uni-freiburg.de/Members/kiesel
+
+"Kunde":
+  - firstname: ["Wilfried", "W."]
+    url: https://www.psychologie.uni-wuerzburg.de/cog/staff/prof-dr-wilfried-kunde/
+
+"Mocke":
+  - firstname: ["Viola", "V."]
+    url: https://www.psychologie.uni-wuerzburg.de/cog/staff/academic-staff/viola-mocke-msc/
+
+"Parmar":
+  - firstname: ["Juhi", "J."]
+    url: http://www.allgpsy2.uni-jena.de/staff.php?surname=parmar
 
 "Pfister":
   - firstname: ["Roland", "R."]
