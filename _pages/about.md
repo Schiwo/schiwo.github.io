@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/psychologie/arbeitsbereiche/allgemeine-psychologie/team/moritz-schiltenwolf/'>University of Tuebingen</a>
+subtitle: <a href='https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/psychologie/arbeitsbereiche/allgemeine-psychologie/team/moritz-schiltenwolf/'>University of Tuebingen</a>
 
 profile:
   align: right
