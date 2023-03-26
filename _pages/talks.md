@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
+title: talks&poster
 description: talks and poster in reversed chronological order.
 years: [2023]
 nav: true
