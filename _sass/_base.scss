@@ -741,7 +741,7 @@ progress {
  .phdwrap::before {
   content: "PhD";
   display: inline-block;
+  text-align: center;
   font-size: 1.0rem;
   transform: rotate(270deg);
-  margin-right: 0.1em; /* Adjust as needed */
 }
