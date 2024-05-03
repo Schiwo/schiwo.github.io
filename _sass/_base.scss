@@ -735,19 +735,12 @@ progress {
  }
 
  .phdwrap{
-  position: relative;
   display: inline-block;
  }
 
  .phdwrap::before {
   content: "PhD";
   display: inline-block;
-  writing-mode: vertical-lr; /* Rotate vertically from left to right */
-  text-align: center; /* Center the vertical text */
-  height: 100%; /* Set the height to match the container's height */
-}
-
-.test{
   font-size: 1.0rem;
   transform: rotate(270deg);
   margin-right: 0.1em; /* Adjust as needed */
