@@ -734,9 +734,13 @@ progress {
      height: inherit;
  }
 
- .post-title::before {
+ .phdwrap{
+
+ }
+
+ .phdwrap::before {
   content: "PhD";
   display: inline-block;
   transform: rotate(270deg);
-  margin-right: 0.5em; /* Adjust as needed */
+  margin-right: 0.1em; /* Adjust as needed */
 }
