@@ -734,6 +734,9 @@ progress {
      height: inherit;
  }
 
- .rotated {
+ .post-title::before {
+  content: "PhD";
+  display: inline-block;
   transform: rotate(270deg);
+  margin-right: 0.5em; /* Adjust as needed */
 }
