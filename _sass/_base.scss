@@ -733,3 +733,9 @@ progress {
      display: block;
      height: inherit;
  }
+
+ .rotated {
+  -ms-transform: rotate(270deg); /* IE 9 */
+  -webkit-transform: rotate(270deg); /* Chrome, Safari, Opera */
+  transform: rotate(270deg);
+}
