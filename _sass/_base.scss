@@ -735,12 +735,10 @@ progress {
  }
 
  .phdwrap{
-  display: grid;
-  grid-auto-rows: minmax(min-content, max-content);
-  grid-template-columns: auto 1fr;
-}
+  display: inline-block;
+ }
 
- .phd {
+ .phdwrap::before {
   content: "PhD";
   display: inline-block;
   text-align: center;
