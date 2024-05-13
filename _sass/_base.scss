@@ -736,12 +736,18 @@ progress {
 
  .phdwrap{
   display: inline-block;
+  position: relative;
+  vertical-align: bottom; /* Align the bottom of the element */
+  bottom: 0; /* Align the bottom of the element */
  }
 
  .phdwrap::before {
   content: "PhD";
   display: inline-block;
   text-align: center;
-  font-size: 1.0rem;
+  font-size: 0.8rem;
   transform: rotate(270deg);
-}
+  position: absolute; /* Position the pseudo-element relative to its parent */
+  bottom: 0.7rem; /* Align the bottom of the pseudo-element with the parent */
+  right: -1rem; /* Adjust the position horizontally */
+ }
