@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: talks&poster
 description: talks and poster in reversed chronological order.
-years: [2023]
+years: [2024, 2023]
 nav: true
 nav_order: 2
 ---
