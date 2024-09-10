@@ -31,12 +31,15 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher 
+      institution: Department of Information Systems, Free University of Berlin
+      year: 2024-now
     - title: Lab visit
       institution: Cognitive Control Collaborative, University of Iowa
       year: 2022
     - title: Scientifc Assistant
       institution: Action Control Lab, University of Tuebingen
-      year: 2019-now
+      year: 2019-2024
       description: Research Project Binding and Retrieval in Action Control (BRAC)
     - title: Scientifc Assistant
       institution: Lab for Cognition, Action and Sustainability, University of Freiburg
@@ -61,4 +64,5 @@
 - title: Other Interests
   type: list
   contents:
+    - Cycling.
     - Ultimate Frisbee. Participation with Disconnection Freiburg at the 2022 World Club Championship in Cincinnati, USA.
