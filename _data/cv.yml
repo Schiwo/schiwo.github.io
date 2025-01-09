@@ -50,20 +50,20 @@
 
       
 - title: Education
-type: time_table
-contents:
-  - title: PhD
-    institution: University of Tuebingen, Germany
-    year: 2019-2024
-    description: Topic&#58; Contextual and Temporal Influences on Abstract Cognitive Control.
-  - title: M.Sc. Psychology
-    institution: University of Freiburg, Germany
-    year: 2016-2018
-    description: Thesis&#58; The causal role of affect in the implementation of cognitive control.
-  - title: B.Sc. Psychology
-    institution: University of Freiburg, Germany
-    year: 2012-2016
-    description: Thesis&#58; Machiavellism in context of social groups.
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Tuebingen, Germany
+      year: 2019-2024
+      description: Topic&#58; Contextual and Temporal Influences on Abstract Cognitive Control.
+    - title: M.Sc. Psychology
+      institution: University of Freiburg, Germany
+      year: 2016-2018
+      description: Thesis&#58; The causal role of affect in the implementation of cognitive control.
+    - title: B.Sc. Psychology
+      institution: University of Freiburg, Germany
+      year: 2012-2016
+      description: Thesis&#58; Machiavellism in context of social groups.
 
 
 - title: Other Interests
