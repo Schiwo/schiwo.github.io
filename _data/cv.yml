@@ -33,6 +33,10 @@
 - title: Teaching
   type: time_table
   contents:
+    - title: Empirisch-experimentelles Arbeiten in der Wissenschaft (FU Berlin)
+      year: WS24/25
+    - title: Business Intelligence (FU Berlin)
+      year: SS25
     - title: Applied Analytics (FU Berlin)
       year: WS24/25
     - title: Wirtschaftsinformatik Projektarbeit (FU Berlin)
