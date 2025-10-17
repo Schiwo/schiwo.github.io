@@ -16,8 +16,11 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher 
+      institution: Department of Psychology, LMU Munich
+      year: 2025-now
+    - title: Postdoctoral Researcher 
       institution: Department of Information Systems, Free University of Berlin
-      year: 2024-now
+      year: 2024-25
     - title: Lab visit
       institution: Cognitive Control Collaborative, University of Iowa
       year: 2022
@@ -34,7 +37,7 @@
   type: time_table
   contents:
     - title: Empirisch-experimentelles Arbeiten in der Wissenschaft (FU Berlin)
-      year: WS24/25
+      year: SS25
     - title: Business Intelligence (FU Berlin)
       year: SS25
     - title: Applied Analytics (FU Berlin)
