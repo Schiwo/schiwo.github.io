@@ -285,11 +285,10 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
-  query: "@*"
-  sort_by: "year, month"     # jekyll-scholar accepts a comma-separated string
-  order:   "descending"
-  group_by: "year"
-  group_order: "descending"
+  sort_by: year, month     # jekyll-scholar accepts a comma-separated string
+  order:   descending
+  group_by: year
+  group_order: descending
 
 
 # Display different badges withs stats for your publications
