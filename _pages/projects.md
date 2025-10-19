@@ -3,7 +3,7 @@ layout: page
 title:  participant scores
 permalink: /projects/
 description: If you have participated in one of my experiments with public scores, you can find them here
-nav: true
+nav: false
 nav_order: 5
 display_categories: [2023, 2022]
 horizontal: false
