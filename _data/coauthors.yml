@@ -38,6 +38,10 @@
   - firstname: ["Wilfried", "W."]
     url: https://www.psychologie.uni-wuerzburg.de/cog/staff/prof-dr-wilfried-kunde/
 
+"lush":
+  - firstname: ["Pete", "P."]
+    url: https://profiles.sussex.ac.uk/p285818-peter-lush
+
 "mocke":
   - firstname: ["Viola", "V."]
     url: https://www.psychologie.uni-wuerzburg.de/cog/staff/academic-staff/viola-mocke-msc/
@@ -53,10 +57,18 @@
 "pfeuffer":
   - firstname: ["Christina", "C."]
     url: https://www.ku.de/ppf/psychologie/lehrstuehle-professuren/juniorprofessur/mitarbeitende/christina-pfeuffer
-    
+
 "pfister":
   - firstname: ["Roland", "R."]
     url: https://www.psychologie.uni-wuerzburg.de/cog/staff/academic-staff/dr-roland-pfister/
+
+"seth":
+  - firstname: ["Anil", "A."]
+    url: https://profiles.sussex.ac.uk/p22981-anil-seth
+
+"schreiter":
+  - firstname: ["Marie Luise", "M. L.", "Marie L."]
+    url: https://www.kyb.tuebingen.mpg.de/person/136605/2537
 
 "straub":
   - firstname: ["Elisa", "E.", "Elisa Ruth", "Elisa R.", "E. R."]
