@@ -45,11 +45,15 @@
 "oberauer":
   - firstname: ["Klaus", "K."]
     url: https://www.psychologie.uzh.ch/de/bereiche/nec/allgpsy/team/leitung/oberauer.html
-    
+
 "parmar":
   - firstname: ["Juhi", "J."]
     url: http://www.allgpsy2.uni-jena.de/staff.php?surname=parmar
 
+"pfeuffer":
+  - firstname: ["Christina", "C."]
+    url: https://www.ku.de/ppf/psychologie/lehrstuehle-professuren/juniorprofessur/mitarbeitende/christina-pfeuffer
+    
 "pfister":
   - firstname: ["Roland", "R."]
     url: https://www.psychologie.uni-wuerzburg.de/cog/staff/academic-staff/dr-roland-pfister/
