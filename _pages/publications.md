@@ -5,6 +5,7 @@ title: publications
 description: publications in reversed chronological order.
 nav: true
 nav_order: 2
+years: ["preprint", 2024, 2023, 2022, 2021]
 ---
 
 <!-- _pages/publications.md -->
@@ -15,6 +16,9 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{%- for y in page.years %}
+  <h2 class="year">{{ y }}</h2>
+  {% bibliography -q @*[year={{y}}]* %}
+{%- endfor %}
 
 </div>
