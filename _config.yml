@@ -280,7 +280,7 @@ scholar:
 
 
   query: "@*"
-  group_by: year
+  group_by: ""
   group_order: descending
 
 
