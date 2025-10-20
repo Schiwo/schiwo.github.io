@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 'Affiliation: <a href="https://www.lmu.de/psy/de/" target="_blank" rel="noopener">LMU Munich</a>'
+subtitle: '<a href="https://www.lmu.de/psy/de/" target="_blank" rel="noopener">LMU Munich</a>'
 
 profile:
   align: right

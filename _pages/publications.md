@@ -16,6 +16,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --file papers --query @*[selected=true]* --group_by none %}
+{% bibliography %}
 
 </div>
