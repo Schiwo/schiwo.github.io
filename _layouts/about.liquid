@@ -16,29 +16,56 @@ layout: default
 
   <article>
     <style>
-      /* Profile on the right; image reduced to ~33% of page width */
+      /* two-column layout: main content left, profile right */
+      .post > article {
+        display: flex;
+        align-items: flex-start;
+        gap: 1.5rem;
+        flex-wrap: nowrap;
+      }
+
+      /* main content: left column */
+      .about-content {
+        order: 1;
+        flex: 1 1 auto;
+        min-width: 0; /* prevents overflow with long content */
+      }
+
+      /* profile: right column, fixed to 33% width */
       .profile {
-        float: right;
-        width: 33%;
+        order: 2;
+        flex: 0 0 33%;
+        max-width: 33%;
         box-sizing: border-box;
-        margin-left: 1.5rem;
         text-align: center;
       }
+
+      /* reduce profile image to ~33% of its previous size */
       .profile img {
-        width: 100%; /* image fills profile column, effectively ~33% of page */
+        width: 33%;
         height: auto;
         display: block;
-        margin: 0 auto;
+        margin: 0.25rem auto 0;
       }
+
       .profile .address {
         margin-top: 0.5rem;
       }
-      .about-content {
-        margin-right: calc(33% + 1.5rem); /* leave room for right column */
-      }
+
+      /* responsive: stack on small screens */
       @media (max-width: 768px) {
-        .profile { float: none; width: 100%; margin: 0 0 1rem 0; }
-        .about-content { margin-right: 0; }
+        .post > article {
+          flex-direction: column;
+        }
+        .profile, .about-content {
+          order: initial;
+          flex: none;
+          width: 100%;
+          max-width: 100%;
+        }
+        .profile img {
+          width: 40%; /* slightly larger on narrow screens for readability */
+        }
       }
     </style>
 
