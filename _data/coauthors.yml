@@ -2,6 +2,14 @@
   - firstname: ["Elena", "E."]
     url: https://www.psych.rwth-aachen.de/cms/PSY/Das-Institut/Kognitions-und-Experimentalpsychologie/Team/~eldlw/Elena-Benini/?allou=1
 
+"courage":
+  - firstname: ["Isabel", "I."]
+    url: https://www.psychologie.uzh.ch/de/bereiche/nec/allgpsy/team/doktorierende/icourage.html
+
+"dames":
+  - firstname: ["Hannah", "H."]
+    url: https://www.psychologie.uzh.ch/de/bereiche/nec/allgpsy/team/alumni/dames.html
+    
 "dignath":
   - firstname: ["David", "D."]
     url: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/psychologie/arbeitsbereiche/allgemeine-psychologie/team/david-dignath/
@@ -13,6 +21,10 @@
 "frings":
   - firstname: ["Christian", "C."]
     url: https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-i/faecher-und-institute/psychologie/professuren/cognitive-psychology/team/christian-frings
+
+"frischkorn":
+  - firstname: ["Gidon", "G."]
+    url: https://www.gfrischkorn.org/
 
 "hazeltine":
   - firstname: ["Eliot", "E."]
@@ -30,6 +42,10 @@
   - firstname: ["Viola", "V."]
     url: https://www.psychologie.uni-wuerzburg.de/cog/staff/academic-staff/viola-mocke-msc/
 
+"oberauer":
+  - firstname: ["Klaus", "K."]
+    url: https://www.psychologie.uzh.ch/de/bereiche/nec/allgpsy/team/leitung/oberauer.html
+    
 "parmar":
   - firstname: ["Juhi", "J."]
     url: http://www.allgpsy2.uni-jena.de/staff.php?surname=parmar
