@@ -278,8 +278,8 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
-  sort_by: year, month     # jekyll-scholar accepts a comma-separated string
-  order:   descending
+
+  query: "@*"
   group_by: year
   group_order: descending
 
