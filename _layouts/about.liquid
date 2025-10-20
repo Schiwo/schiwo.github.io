@@ -15,8 +15,35 @@ layout: default
   </header>
 
   <article>
+    <style>
+      /* Profile on the right; image reduced to ~33% of page width */
+      .profile {
+        float: right;
+        width: 33%;
+        box-sizing: border-box;
+        margin-left: 1.5rem;
+        text-align: center;
+      }
+      .profile img {
+        width: 100%; /* image fills profile column, effectively ~33% of page */
+        height: auto;
+        display: block;
+        margin: 0 auto;
+      }
+      .profile .address {
+        margin-top: 0.5rem;
+      }
+      .about-content {
+        margin-right: calc(33% + 1.5rem); /* leave room for right column */
+      }
+      @media (max-width: 768px) {
+        .profile { float: none; width: 100%; margin: 0 0 1rem 0; }
+        .about-content { margin-right: 0; }
+      }
+    </style>
+
     {%- if page.profile -%}
-      <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+      <div class="profile">
         {%- if page.profile.image -%}
           {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
           {%- if page.profile.image_circular -%}
@@ -40,7 +67,7 @@ layout: default
       </div>
     {%- endif -%}
 
-    <div class="clearfix">
+    <div class="about-content">
       {{ content }}
     </div>
 
