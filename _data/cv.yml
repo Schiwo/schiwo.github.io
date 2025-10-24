@@ -18,6 +18,7 @@
     - title: Postdoctoral Researcher 
       institution: Department of Psychology, LMU Munich
       year: 2025-now
+      description: DFG priority program "META-REP"
     - title: Postdoctoral Researcher 
       institution: Department of Information Systems, Free University of Berlin
       year: 2024-25
@@ -27,11 +28,11 @@
     - title: Scientifc Assistant
       institution: Action Control Lab, University of Tuebingen
       year: 2019-2024
-      description: Research Project Binding and Retrieval in Action Control (BRAC)
+      description: Research Project "Binding and Retrieval in Action Control" (BRAC)
     - title: Scientifc Assistant
       institution: Lab for Cognition, Action and Sustainability, University of Freiburg
       year: 2019-2020
-      description: Project STAV Psych. Developement and Implementation of (self) assessments to select psychology students in Baden-Wuerttemberg, Germany.
+      description: Project "STAV Psych." Developement and Implementation of (self) assessments to select psychology students in Baden-Wuerttemberg, Germany.
 
 - title: Teaching
   type: time_table
