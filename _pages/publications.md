@@ -5,7 +5,7 @@ title: publications
 description: publications in reversed chronological order.
 nav: true
 nav_order: 2
-years: ["preprint", 2024, 2023, 2022, 2021]
+years: ["preprint", 2026, 2024, 2023, 2022, 2021]
 ---
 
 <!-- _pages/publications.md -->
