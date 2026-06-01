@@ -37,6 +37,8 @@
 - title: Teaching
   type: time_table
   contents:
+    - title: Metascience Workshop (SFU Vienna)
+      year: SS26
     - title: Empirisch-experimentelles Arbeiten (FU Berlin)
       year: SS25
     - title: Business Intelligence (FU Berlin)
